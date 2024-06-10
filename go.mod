@@ -1,4 +1,4 @@
-module github.com/sparkaio/tlsclient
+module github.com/ToffyMTA/tlsclient
 
 go 1.22.0
 
