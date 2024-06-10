@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	github.com/refraction-networking/utls v1.6.6
-	github.com/sparkaio/fhttp v1.0.8
+	github.com/ToffyMTA/fhttp v1.0.8
 	golang.org/x/net v0.26.0
 )
 
